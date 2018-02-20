@@ -9,3 +9,4 @@ C:\Users\emil\Desktop\DemoCalendar\DemoCalendar\obj\Debug\DemoCalendar.csproj.Ge
 C:\Users\emil\Desktop\DemoCalendar\DemoCalendar\obj\Debug\DemoCalendar.csproj.CoreCompileInputs.cache
 C:\Users\emil\Desktop\DemoCalendar\DemoCalendar\obj\Debug\DemoCalendar.exe
 C:\Users\emil\Desktop\DemoCalendar\DemoCalendar\obj\Debug\DemoCalendar.pdb
+C:\Users\emil\Desktop\DemoCalendar\DemoCalendar\bin\Debug\Calendar.NET.dll
