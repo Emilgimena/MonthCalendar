@@ -10,3 +10,13 @@ C:\Users\emil\Desktop\DemoCalendar\DemoCalendar\obj\Debug\DemoCalendar.csproj.Co
 C:\Users\emil\Desktop\DemoCalendar\DemoCalendar\obj\Debug\DemoCalendar.exe
 C:\Users\emil\Desktop\DemoCalendar\DemoCalendar\obj\Debug\DemoCalendar.pdb
 C:\Users\emil\Desktop\DemoCalendar\DemoCalendar\bin\Debug\Calendar.NET.dll
+C:\Users\ehbgimena\Documents\GitHub\MonthCalendar\DemoCalendar\DemoCalendar\bin\Debug\DemoCalendar.exe.config
+C:\Users\ehbgimena\Documents\GitHub\MonthCalendar\DemoCalendar\DemoCalendar\bin\Debug\DemoCalendar.exe
+C:\Users\ehbgimena\Documents\GitHub\MonthCalendar\DemoCalendar\DemoCalendar\bin\Debug\DemoCalendar.pdb
+C:\Users\ehbgimena\Documents\GitHub\MonthCalendar\DemoCalendar\DemoCalendar\obj\Debug\DemoCalendar.csprojResolveAssemblyReference.cache
+C:\Users\ehbgimena\Documents\GitHub\MonthCalendar\DemoCalendar\DemoCalendar\obj\Debug\DemoCalendar.Form1.resources
+C:\Users\ehbgimena\Documents\GitHub\MonthCalendar\DemoCalendar\DemoCalendar\obj\Debug\DemoCalendar.Properties.Resources.resources
+C:\Users\ehbgimena\Documents\GitHub\MonthCalendar\DemoCalendar\DemoCalendar\obj\Debug\DemoCalendar.csproj.GenerateResource.Cache
+C:\Users\ehbgimena\Documents\GitHub\MonthCalendar\DemoCalendar\DemoCalendar\obj\Debug\DemoCalendar.csproj.CoreCompileInputs.cache
+C:\Users\ehbgimena\Documents\GitHub\MonthCalendar\DemoCalendar\DemoCalendar\obj\Debug\DemoCalendar.exe
+C:\Users\ehbgimena\Documents\GitHub\MonthCalendar\DemoCalendar\DemoCalendar\obj\Debug\DemoCalendar.pdb
